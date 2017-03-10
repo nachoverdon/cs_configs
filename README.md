@@ -24,7 +24,6 @@ They are also there just because potato.
   + *fzon* & *fzoff* to set freezetime to 10 or 0.
   + *hqvoice* & *lqvoice* to set voicequality to 5 or 2
   + *money* to set startmoney to 16000.
-  + *_pause* to enable pause.
   + *rates* to remind everyone the optimal settings.
 - **Modes:**
   + *match* (or *go*) to execute the match settings. Use *start* to also execute the live on 3 script (*lo3*).
