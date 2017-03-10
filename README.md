@@ -6,6 +6,7 @@ My Counter-Strike configuration files.
 
 ## Notes
 ```sv_downloadurl "http://maps.verygames.net/halflife/cstrike/"```
+
 The url provided doesn't work anymore, it's just there as a reference.
 
 Some of the commands, such as **sv_accelerate 5** are fixed and cannot be changed.
