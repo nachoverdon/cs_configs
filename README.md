@@ -5,9 +5,9 @@ My Counter-Strike configuration files.
 # Server
 
 ## Notes
-```sv_downloadurl "http://maps.verygames.net/halflife/cstrike/"```
+```sv_downloadurl "http://fd.andaina.net/bal47/cstrike/"```
 
-The url provided doesn't work anymore, it's just there as a reference.
+I do not own the host of the url provided. You should use one of your own. It's there as a reference.
 
 Some of the commands, such as **sv_accelerate 5** are fixed and cannot be changed.
 They are also there just because potato.
