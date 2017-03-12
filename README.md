@@ -22,7 +22,6 @@ They are also there just because potato.
   + *camon* & *camoff* to enable/disable free spectator camera.
   + *f2bon* & *f2boff* to enable/disable fadetoblack.
   + *fzon* & *fzoff* to set freezetime to 10 or 0.
-  + *hqvoice* & *lqvoice* to set voicequality to 5 or 2
   + *money* to set startmoney to 16000.
   + *rates* to remind everyone the optimal settings.
 - **Modes:**
